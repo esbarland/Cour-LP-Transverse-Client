@@ -5,7 +5,6 @@ import React, { Component } from 'react';
 import HomePage from "./components/basic/HomePage";
 import TaskDetail from "./components/task/TaskDetail";
 import TaskList from "./components/task/TaskList";
-
 class App extends Component {
   render (){
     return (
